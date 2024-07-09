@@ -31,7 +31,7 @@ function Home(props) {
                                     <li><a href="index6.html">Home Layout 6</a></li>
                                 </ul>
                             </li>
-                            <li class="dropdown-show"><a href="#">Shop</a>
+                            <li class="dropdown-show"><a href="index.html">Shop</a>
                                 <ul class="mega-menu-wrap dropdown-nav">
                                     <li class="mega-menu-item"><a href="shop.html" class="mega-item-title">Shop
                                         Layout</a>
@@ -55,7 +55,7 @@ function Home(props) {
                                     </li>
                                 </ul>
                             </li>
-                            <li class="dropdown-show"><a href="#">Pages</a>
+                            <li class="dropdown-show"><a href="index.html">Pages</a>
                                 <ul class="dropdown-nav">
                                     <li><a href="cart.html">Shopping Cart</a></li>
                                     <li><a href="checkout.html">Checkout</a></li>
@@ -66,7 +66,7 @@ function Home(props) {
                                     <li><a href="404.html">404 Error</a></li>
                                 </ul>
                             </li>
-                            <li class="dropdown-show"><a href="#">Men</a>
+                            <li class="dropdown-show"><a href="index.html">Men</a>
                                 <ul class="mega-menu-wrap dropdown-nav">
                                     <li class="mega-menu-item"><a href="shop-left-full-wide.html"
                                                                   class="mega-item-title">Shirt</a>
@@ -149,7 +149,7 @@ function Home(props) {
                                     </li>
                                 </ul>
                             </li>
-                            <li class="dropdown-show"><a href="#">Blog</a>
+                            <li class="dropdown-show"><a href="index.html">Blog</a>
                                 <ul class="dropdown-nav">
                                     <li><a href="blog.html">Blog Right Sidebar</a></li>
                                     <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
@@ -168,84 +168,84 @@ function Home(props) {
             <div class="col-6 col-lg-2 m-auto">
                 <div class="header-right-meta text-right">
                     <ul>
-                        <li><a href="#" class="modal-active"><i class="fa fa-search"></i></a></li>
-                        <li class="settings"><a href="#"><i class="fa fa-cog"></i></a>
+                        <li><a href="index.html" class="modal-active"><i class="fa fa-search"></i></a></li>
+                        <li class="settings"><a href="index.html"><i class="fa fa-cog"></i></a>
                             <div class="site-settings d-block d-sm-flex">
                                 <dl class="currency">
                                     <dt>Currency</dt>
-                                    <dd class="current"><a href="#">USD</a></dd>
-                                    <dd><a href="#">AUD</a></dd>
-                                    <dd><a href="#">CAD</a></dd>
-                                    <dd><a href="#">BDT</a></dd>
+                                    <dd class="current"><a href="index.html">USD</a></dd>
+                                    <dd><a href="index.html">AUD</a></dd>
+                                    <dd><a href="index.html">CAD</a></dd>
+                                    <dd><a href="index.html">BDT</a></dd>
                                 </dl>
 
                                 <dl class="my-account">
                                     <dt>My Account</dt>
-                                    <dd><a href="#">Dashboard</a></dd>
-                                    <dd><a href="#">Profile</a></dd>
-                                    <dd><a href="#">Sign</a></dd>
+                                    <dd><a href="index.html">Dashboard</a></dd>
+                                    <dd><a href="index.html">Profile</a></dd>
+                                    <dd><a href="index.html">Sign</a></dd>
                                 </dl>
 
                                 <dl class="language">
                                     <dt>Language</dt>
-                                    <dd class="current"><a href="#">English (US)</a></dd>
-                                    <dd><a href="#">English (UK)</a></dd>
-                                    <dd><a href="#">Chinees</a></dd>
-                                    <dd><a href="#">Bengali</a></dd>
-                                    <dd><a href="#">Hindi</a></dd>
-                                    <dd><a href="#">Japanees</a></dd>
+                                    <dd class="current"><a href="index.html">English (US)</a></dd>
+                                    <dd><a href="index.html">English (UK)</a></dd>
+                                    <dd><a href="index.html">Chinees</a></dd>
+                                    <dd><a href="index.html">Bengali</a></dd>
+                                    <dd><a href="index.html">Hindi</a></dd>
+                                    <dd><a href="index.html">Japanees</a></dd>
                                 </dl>
                             </div>
                         </li>
-                        <li class="shop-cart"><a href="#"><i class="fa fa-shopping-bag"></i> <span
+                        <li class="shop-cart"><a href="index.html"><i class="fa fa-shopping-bag"></i> <span
                                 class="count">3</span></a>
                             <div class="mini-cart">
                                 <div class="mini-cart-body">
                                     <div class="single-cart-item d-flex">
                                         <figure class="product-thumb">
-                                            <a href="#"><img class="img-fluid" src="assets/img/product-1.jpg"
+                                            <a href="index.html"><img class="img-fluid" src="assets/img/product-1.jpg"
                                                              alt="Products"/></a>
                                         </figure>
 
                                         <div class="product-details">
-                                            <h2><a href="#">Sprite Yoga Companion</a></h2>
+                                            <h2><a href="index.html">Sprite Yoga Companion</a></h2>
                                             <div class="cal d-flex align-items-center">
                                                 <span class="quantity">3</span>
                                                 <span class="multiplication">X</span>
                                                 <span class="price">$77.00</span>
                                             </div>
                                         </div>
-                                        <a href="#" class="remove-icon"><i class="fa fa-trash-o"></i></a>
+                                        <a href="index.html" class="remove-icon"><i class="fa fa-trash-o"></i></a>
                                     </div>
                                     <div class="single-cart-item d-flex">
                                         <figure class="product-thumb">
-                                            <a href="#"><img class="img-fluid" src="assets/img/product-2.jpg"
+                                            <a href="index.html"><img class="img-fluid" src="assets/img/product-2.jpg"
                                                              alt="Products"/></a>
                                         </figure>
                                         <div class="product-details">
-                                            <h2><a href="#">Yoga Companion Kit</a></h2>
+                                            <h2><a href="index.html">Yoga Companion Kit</a></h2>
                                             <div class="cal d-flex align-items-center">
                                                 <span class="quantity">2</span>
                                                 <span class="multiplication">X</span>
                                                 <span class="price">$6.00</span>
                                             </div>
                                         </div>
-                                        <a href="#" class="remove-icon"><i class="fa fa-trash-o"></i></a>
+                                        <a href="index.html" class="remove-icon"><i class="fa fa-trash-o"></i></a>
                                     </div>
                                     <div class="single-cart-item d-flex">
                                         <figure class="product-thumb">
-                                            <a href="#"><img class="img-fluid" src="assets/img/product-3.jpg"
+                                            <a href="index.html"><img class="img-fluid" src="assets/img/product-3.jpg"
                                                              alt="Products"/></a>
                                         </figure>
                                         <div class="product-details">
-                                            <h2><a href="#">Sprite Yoga Companion Kit</a></h2>
+                                            <h2><a href="index.html">Sprite Yoga Companion Kit</a></h2>
                                             <div class="cal d-flex align-items-center">
                                                 <span class="quantity">1</span>
                                                 <span class="multiplication">X</span>
                                                 <span class="price">$116.00</span>
                                             </div>
                                         </div>
-                                        <a href="#" class="remove-icon"><i class="fa fa-trash-o"></i></a>
+                                        <a href="index.html" class="remove-icon"><i class="fa fa-trash-o"></i></a>
                                     </div>
                                 </div>
                                 <div class="mini-cart-footer">
@@ -290,7 +290,7 @@ function Home(props) {
                             <h4>Rubby Store</h4>
                             <h2>Ring Solitaire <br/> for Princess</h2>
                             <p>Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                            <a href="#" class="btn-long-arrow">Learn More</a>
+                            <a href="index.html" class="btn-long-arrow">Learn More</a>
                         </div>
                     </div>
                     {/* Banner Single Carousel End */}
@@ -301,7 +301,7 @@ function Home(props) {
                             <h4>New Collection 2017</h4>
                             <h2>Nice Earrings <br/> Collection</h2>
                             <p>Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                            <a href="#" class="btn-long-arrow">Learn More</a>
+                            <a href="index.html" class="btn-long-arrow">Learn More</a>
                         </div>
                     </div>
                     {/* Banner Single Carousel End */}
@@ -320,13 +320,13 @@ function Home(props) {
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="single-featured-product">
-                            <a href="#"><img src="assets/img/home_6_cat_1.jpg" alt="Products" class="img-fluid"/></a>
+                            <a href="index.html"><img src="assets/img/home_6_cat_1.jpg" alt="Products" class="img-fluid"/></a>
                         </div>
                     </div>
 
                     <div class="col-lg-12">
                         <div class="single-featured-product">
-                            <a href="#"><img src="assets/img/home_6_cat_2.jpg" alt="Products" class="img-fluid"/></a>
+                            <a href="index.html"><img src="assets/img/home_6_cat_2.jpg" alt="Products" class="img-fluid"/></a>
                         </div>
                     </div>
                 </div>
@@ -336,13 +336,13 @@ function Home(props) {
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="single-featured-product">
-                            <a href="#"><img src="assets/img/home_6_cat_3.jpg" alt="Products" class="img-fluid"/></a>
+                            <a href="index.html"><img src="assets/img/home_6_cat_3.jpg" alt="Products" class="img-fluid"/></a>
                         </div>
                     </div>
 
                     <div class="col-lg-12">
                         <div class="single-featured-product">
-                            <a href="#"><img src="assets/img/home_6_cat_4.jpg" alt="Products" class="img-fluid"/></a>
+                            <a href="index.html"><img src="assets/img/home_6_cat_4.jpg" alt="Products" class="img-fluid"/></a>
                         </div>
                     </div>
                 </div>
@@ -552,7 +552,7 @@ function Home(props) {
     <div class="ruby-container">
         <div class="row no-gutters">
             <div class="col-md-7">
-                <a href="#" class="product-category-name-warp d-flex">
+                <a href="index.html" class="product-category-name-warp d-flex">
                     <div class="category-title-box d-flex">
                         <h2 class="pro-cate-title">Men</h2>
                     </div>
@@ -564,7 +564,7 @@ function Home(props) {
                     <div class="products-categories-carousel owl-carousel">
                         <div class="single-product-item">
                             <figure class="product-thumb">
-                                <a href="#"><img src="assets/img/product-1.jpg" alt="Product"
+                                <a href="index.html"><img src="assets/img/product-1.jpg" alt="Product"
                                                  class="img-fluid"/></a>
                             </figure>
                             <div class="product-details">
@@ -583,7 +583,7 @@ function Home(props) {
 
                         <div class="single-product-item">
                             <figure class="product-thumb">
-                                <a href="#"><img src="assets/img/product-2.jpg" alt="Product"
+                                <a href="index.html"><img src="assets/img/product-2.jpg" alt="Product"
                                                  class="img-fluid"/></a>
                             </figure>
                             <div class="product-details">
@@ -602,7 +602,7 @@ function Home(props) {
 
                         <div class="single-product-item">
                             <figure class="product-thumb">
-                                <a href="#"><img src="assets/img/product-3.jpg" alt="Product"
+                                <a href="index.html"><img src="assets/img/product-3.jpg" alt="Product"
                                                  class="img-fluid"/></a>
                             </figure>
                             <div class="product-details">
@@ -629,7 +629,7 @@ function Home(props) {
                     <div class="products-categories-carousel owl-carousel">
                         <div class="single-product-item">
                             <figure class="product-thumb">
-                                <a href="#"><img src="assets/img/product-1.jpg" alt="Product"
+                                <a href="index.html"><img src="assets/img/product-1.jpg" alt="Product"
                                                  class="img-fluid"/></a>
                             </figure>
                             <div class="product-details">
@@ -648,7 +648,7 @@ function Home(props) {
 
                         <div class="single-product-item">
                             <figure class="product-thumb">
-                                <a href="#"><img src="assets/img/product-2.jpg" alt="Product"
+                                <a href="index.html"><img src="assets/img/product-2.jpg" alt="Product"
                                                  class="img-fluid"/></a>
                             </figure>
                             <div class="product-details">
@@ -667,7 +667,7 @@ function Home(props) {
 
                         <div class="single-product-item">
                             <figure class="product-thumb">
-                                <a href="#"><img src="assets/img/product-3.jpg" alt="Product"
+                                <a href="index.html"><img src="assets/img/product-3.jpg" alt="Product"
                                                  class="img-fluid"/></a>
                             </figure>
                             <div class="product-details">
@@ -688,7 +688,7 @@ function Home(props) {
             </div>
 
             <div class="col-md-7 order-first order-md-last">
-                <a href="#" class="product-category-name-warp women d-flex">
+                <a href="index.html" class="product-category-name-warp women d-flex">
                     <div class="category-title-box d-flex">
                         <h2 class="pro-cate-title">Women</h2>
                     </div>
@@ -778,14 +778,14 @@ function Home(props) {
                             <p>Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum</p>
 
                             <div class="footer-social-icons">
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-pinterest"></i></a>
-                                <a href="#"><i class="fa fa-instagram"></i></a>
-                                <a href="#"><i class="fa fa-flickr"></i></a>
+                                <a href="index.html"><i class="fa fa-facebook"></i></a>
+                                <a href="index.html"><i class="fa fa-twitter"></i></a>
+                                <a href="index.html"><i class="fa fa-pinterest"></i></a>
+                                <a href="index.html"><i class="fa fa-instagram"></i></a>
+                                <a href="index.html"><i class="fa fa-flickr"></i></a>
                             </div>
 
-                            <a href="#"><img src="assets/img/payment.png" alt="Payment Method"/></a>
+                            <a href="index.html"><img src="assets/img/payment.png" alt="Payment Method"/></a>
                         </div>
                     </div>
                 </div>
@@ -802,22 +802,22 @@ function Home(props) {
                     <div class="col-lg-12">
                         <div class="imgage-gallery-carousel owl-carousel">
                             <div class="gallery-item">
-                                <a href="#"><img src="assets/img/gallery-img-1.jpg" alt="Gallery"/></a>
+                                <a href="index.html"><img src="assets/img/gallery-img-1.jpg" alt="Gallery"/></a>
                             </div>
                             <div class="gallery-item">
-                                <a href="#"><img src="assets/img/gallery-img-2.jpg" alt="Gallery"/></a>
+                                <a href="index.html"><img src="assets/img/gallery-img-2.jpg" alt="Gallery"/></a>
                             </div>
                             <div class="gallery-item">
-                                <a href="#"><img src="assets/img/gallery-img-3.jpg" alt="Gallery"/></a>
+                                <a href="index.html"><img src="assets/img/gallery-img-3.jpg" alt="Gallery"/></a>
                             </div>
                             <div class="gallery-item">
-                                <a href="#"><img src="assets/img/gallery-img-4.jpg" alt="Gallery"/></a>
+                                <a href="index.html"><img src="assets/img/gallery-img-4.jpg" alt="Gallery"/></a>
                             </div>
                             <div class="gallery-item">
-                                <a href="#"><img src="assets/img/gallery-img-3.jpg" alt="Gallery"/></a>
+                                <a href="index.html"><img src="assets/img/gallery-img-3.jpg" alt="Gallery"/></a>
                             </div>
                             <div class="gallery-item">
-                                <a href="#"><img src="assets/img/gallery-img-2.jpg" alt="Gallery"/></a>
+                                <a href="index.html"><img src="assets/img/gallery-img-2.jpg" alt="Gallery"/></a>
                             </div>
                         </div>
                     </div>
@@ -833,7 +833,7 @@ function Home(props) {
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="copyright-text">
-                        <p><a target="_blank" href="https://www.templateshub.net">Templates Hub</a></p>
+                        <p><a target="_blank" href="https://www.templateshub.net" rel="noreferrer">Templates Hub</a></p>
                     </div>
                 </div>
             </div>
